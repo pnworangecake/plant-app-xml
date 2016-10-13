@@ -1,0 +1,122 @@
+<plants>
+    <!-- Cryptocoryne -->
+    <plant>
+        <common-name>Cryptocoryne</common-name>
+        <sci-name><i>Cryptocoryne</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Crown</type>
+        <placement>Midground</placement>
+        <lighting>Low/Moderate</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Dwarf Sagittaria -->
+    <plant>
+        <common-name>Dwarf Sagittaria</common-name>
+        <sci-name><i>Sagittaria subulata</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Crown</type>
+        <placement>Foreground</placement>
+        <lighting>Moderate</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Rotala -->
+    <plant>
+        <common-name>Rotala</common-name>
+        <sci-name><i>Rotala</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Stem</type>
+        <placement>Background</placement>
+        <lighting>Any</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Blyxa -->
+    <plant>
+        <common-name>Blyxa</common-name>
+        <sci-name><i>Blyxa japonica</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Stem</type>
+        <placement>Midground</placement>
+        <lighting>Moderate/High</lighting>
+        <difficulty>Moderate</difficulty>
+        <tech>High tech</tech>
+    </plant>
+    <!-- Duckweed -->
+    <plant>
+        <common-name>Duckweed </common-name>
+        <sci-name><i>Lemnoideae</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Floating</type>
+        <placement>Surface</placement>
+        <lighting>Any</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Salvinia -->
+    <plant>
+        <common-name>Water spangles</common-name>
+        <sci-name><i>Salvinia minima</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Floating</type>
+        <placement>Surface</placement>
+        <lighting>Any</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Anubias -->
+    <plant>
+        <common-name>Anubias</common-name>
+        <sci-name><i>Anubias</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Rhizome</type>
+        <placement>Foreground</placement>
+        <lighting>Low</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Bucephalandra -->
+    <plant>
+        <common-name>Bucephalandra</common-name>
+        <sci-name><i>Bucephalandra</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Rhizome</type>
+        <placement>Midground</placement>
+        <lighting>Low</lighting>
+        <difficulty>Moderate</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Christmas moss -->
+    <plant>
+        <common-name>Christmas Moss</common-name>
+        <sci-name><i>Vesicularia montagnei</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Moss</type>
+        <placement>Foreground</placement>
+        <lighting>Any</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+    <!-- Java moss -->
+    <plant>
+        <common-name>Java moss</common-name>
+        <sci-name><i>Vesicularia dubyana</i></sci-name>
+        <image></image>
+        <description></description>
+        <type>Moss</type>
+        <placement>Foreground</placement>
+        <lighting>Any</lighting>
+        <difficulty>Easy</difficulty>
+        <tech>Low tech</tech>
+    </plant>
+</plants>
